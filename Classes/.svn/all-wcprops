@@ -1,0 +1,533 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/greedyshot/!svn/ver/2/trunk/Classes
+END
+GameSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/greedyshot/!svn/ver/2/trunk/Classes/GameSettings.h
+END
+CollisionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/greedyshot/!svn/ver/2/trunk/Classes/CollisionManager.m
+END
+GameSettings.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/greedyshot/!svn/ver/2/trunk/Classes/GameSettings.m
+END
+TextInputView.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/greedyshot/!svn/ver/2/trunk/Classes/TextInputView.h
+END
+TextInputView.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/greedyshot/!svn/ver/2/trunk/Classes/TextInputView.m
+END
+UIGameLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/greedyshot/!svn/ver/2/trunk/Classes/UIGameLayer.h
+END
+AsteroidDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/greedyshot/!svn/ver/2/trunk/Classes/AsteroidDelegate.h
+END
+MenuDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/greedyshot/!svn/ver/2/trunk/Classes/MenuDefs.h
+END
+GameLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/greedyshot/!svn/ver/2/trunk/Classes/GameLayer.h
+END
+UIGameLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/greedyshot/!svn/ver/2/trunk/Classes/UIGameLayer.m
+END
+GameLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/greedyshot/!svn/ver/2/trunk/Classes/GameLayer.m
+END
+GameParticles.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/greedyshot/!svn/ver/2/trunk/Classes/GameParticles.h
+END
+AsteroidNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/greedyshot/!svn/ver/2/trunk/Classes/AsteroidNode.h
+END
+AccelerometerFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/greedyshot/!svn/ver/2/trunk/Classes/AccelerometerFilter.h
+END
+FieroPickup.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/greedyshot/!svn/ver/2/trunk/Classes/FieroPickup.h
+END
+StoreManagerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/greedyshot/!svn/ver/2/trunk/Classes/StoreManagerDelegate.h
+END
+CoinManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/greedyshot/!svn/ver/2/trunk/Classes/CoinManager.h
+END
+CoinDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/greedyshot/!svn/ver/2/trunk/Classes/CoinDelegate.h
+END
+GameParticles.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/greedyshot/!svn/ver/2/trunk/Classes/GameParticles.m
+END
+AsteroidNode.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/greedyshot/!svn/ver/2/trunk/Classes/AsteroidNode.m
+END
+AccelerometerFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/greedyshot/!svn/ver/2/trunk/Classes/AccelerometerFilter.m
+END
+FieroPickup.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/greedyshot/!svn/ver/2/trunk/Classes/FieroPickup.m
+END
+StoreManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/greedyshot/!svn/ver/2/trunk/Classes/StoreManager.h
+END
+CoinManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/greedyshot/!svn/ver/2/trunk/Classes/CoinManager.m
+END
+ProjectileManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/greedyshot/!svn/ver/2/trunk/Classes/ProjectileManager.h
+END
+ProjectileDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/greedyshot/!svn/ver/2/trunk/Classes/ProjectileDelegate.h
+END
+OrbitPickup.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/greedyshot/!svn/ver/2/trunk/Classes/OrbitPickup.h
+END
+HighScoresLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/greedyshot/!svn/ver/2/trunk/Classes/HighScoresLayer.h
+END
+GameObjectDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/greedyshot/!svn/ver/2/trunk/Classes/GameObjectDelegate.h
+END
+AudioManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/greedyshot/!svn/ver/2/trunk/Classes/AudioManager.h
+END
+StoreManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/greedyshot/!svn/ver/2/trunk/Classes/StoreManager.m
+END
+SettingsLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/greedyshot/!svn/ver/2/trunk/Classes/SettingsLayer.h
+END
+CoinNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/greedyshot/!svn/ver/2/trunk/Classes/CoinNode.h
+END
+ProjectileManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/greedyshot/!svn/ver/2/trunk/Classes/ProjectileManager.m
+END
+OrbitPickup.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/greedyshot/!svn/ver/2/trunk/Classes/OrbitPickup.m
+END
+HighScoresLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/greedyshot/!svn/ver/2/trunk/Classes/HighScoresLayer.m
+END
+GameObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/greedyshot/!svn/ver/2/trunk/Classes/GameObject.h
+END
+AudioManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/greedyshot/!svn/ver/2/trunk/Classes/AudioManager.m
+END
+SettingsLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/greedyshot/!svn/ver/2/trunk/Classes/SettingsLayer.m
+END
+CoinNode.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/greedyshot/!svn/ver/2/trunk/Classes/CoinNode.m
+END
+GameObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/greedyshot/!svn/ver/2/trunk/Classes/GameObject.m
+END
+ProjectileNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/greedyshot/!svn/ver/2/trunk/Classes/ProjectileNode.h
+END
+LoadingLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/greedyshot/!svn/ver/2/trunk/Classes/LoadingLayer.h
+END
+ProjectileNode.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/greedyshot/!svn/ver/2/trunk/Classes/ProjectileNode.m
+END
+LoadingLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/greedyshot/!svn/ver/2/trunk/Classes/LoadingLayer.m
+END
+RootViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/greedyshot/!svn/ver/2/trunk/Classes/RootViewController.h
+END
+collectorAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/greedyshot/!svn/ver/2/trunk/Classes/collectorAppDelegate.h
+END
+OrbitNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/greedyshot/!svn/ver/2/trunk/Classes/OrbitNode.h
+END
+PlayerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/greedyshot/!svn/ver/2/trunk/Classes/PlayerDelegate.h
+END
+RootViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/greedyshot/!svn/ver/2/trunk/Classes/RootViewController.m
+END
+collectorAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/greedyshot/!svn/ver/2/trunk/Classes/collectorAppDelegate.m
+END
+StoreLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/greedyshot/!svn/ver/2/trunk/Classes/StoreLayer.h
+END
+OrbitNode.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/greedyshot/!svn/ver/2/trunk/Classes/OrbitNode.m
+END
+SummaryLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/greedyshot/!svn/ver/2/trunk/Classes/SummaryLayer.h
+END
+StoreLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/greedyshot/!svn/ver/2/trunk/Classes/StoreLayer.m
+END
+SummaryLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/greedyshot/!svn/ver/2/trunk/Classes/SummaryLayer.m
+END
+PlayerNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/greedyshot/!svn/ver/2/trunk/Classes/PlayerNode.h
+END
+AudioDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/greedyshot/!svn/ver/2/trunk/Classes/AudioDefs.h
+END
+ShotObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/greedyshot/!svn/ver/2/trunk/Classes/ShotObject.h
+END
+AsteroidManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/greedyshot/!svn/ver/2/trunk/Classes/AsteroidManager.h
+END
+MainMenuLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/greedyshot/!svn/ver/2/trunk/Classes/MainMenuLayer.h
+END
+PlayerNode.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/greedyshot/!svn/ver/2/trunk/Classes/PlayerNode.m
+END
+PageLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/greedyshot/!svn/ver/2/trunk/Classes/PageLayer.h
+END
+RootViewDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/greedyshot/!svn/ver/2/trunk/Classes/RootViewDelegate.h
+END
+ShotObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/greedyshot/!svn/ver/2/trunk/Classes/ShotObject.m
+END
+AsteroidManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/greedyshot/!svn/ver/2/trunk/Classes/AsteroidManager.m
+END
+MainMenuLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/greedyshot/!svn/ver/2/trunk/Classes/MainMenuLayer.m
+END
+GameDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/greedyshot/!svn/ver/2/trunk/Classes/GameDefs.h
+END
+PageLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/greedyshot/!svn/ver/2/trunk/Classes/PageLayer.m
+END
+AudioSettingsLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/greedyshot/!svn/ver/2/trunk/Classes/AudioSettingsLayer.h
+END
+CalibrationLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/greedyshot/!svn/ver/2/trunk/Classes/CalibrationLayer.h
+END
+AudioSettingsLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/greedyshot/!svn/ver/2/trunk/Classes/AudioSettingsLayer.m
+END
+Reticle.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/greedyshot/!svn/ver/2/trunk/Classes/Reticle.h
+END
+CalibrationLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/greedyshot/!svn/ver/2/trunk/Classes/CalibrationLayer.m
+END
+HSServerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/greedyshot/!svn/ver/2/trunk/Classes/HSServerDelegate.h
+END
+Reticle.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/greedyshot/!svn/ver/2/trunk/Classes/Reticle.m
+END
+GameConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/greedyshot/!svn/ver/2/trunk/Classes/GameConfig.h
+END
+HSServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/greedyshot/!svn/ver/2/trunk/Classes/HSServer.h
+END
+GameOverLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/greedyshot/!svn/ver/2/trunk/Classes/GameOverLayer.h
+END
+GreedyMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/greedyshot/!svn/ver/2/trunk/Classes/GreedyMenu.h
+END
+PagedMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/greedyshot/!svn/ver/2/trunk/Classes/PagedMenu.h
+END
+HSServer.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/greedyshot/!svn/ver/2/trunk/Classes/HSServer.m
+END
+GameOverLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/greedyshot/!svn/ver/2/trunk/Classes/GameOverLayer.m
+END
+StoreItemLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/greedyshot/!svn/ver/2/trunk/Classes/StoreItemLayer.h
+END
+GreedyMenu.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/greedyshot/!svn/ver/2/trunk/Classes/GreedyMenu.m
+END
+PagedMenu.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/greedyshot/!svn/ver/2/trunk/Classes/PagedMenu.m
+END
+StoreItemLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/greedyshot/!svn/ver/2/trunk/Classes/StoreItemLayer.m
+END
+CollisionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/greedyshot/!svn/ver/2/trunk/Classes/CollisionManager.h
+END
